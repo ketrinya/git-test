@@ -2,3 +2,4 @@ some content for test
 some content for test from remote brench
 
 changes for commit 1
+changes for commit 2
